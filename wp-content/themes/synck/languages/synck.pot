@@ -1,0 +1,1815 @@
+# Copyright (C) 2024 WordPressRiver
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Synck 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/synck\n"
+"POT-Creation-Date: 2024-02-01 19:33:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:27 archive.php:27 author.php:27 category.php:27
+#: inc/redux/config.php:362 index.php:27 page-templates/blog-sidebar.php:16
+#: page.php:27 search.php:27 single.php:27 tag.php:27
+msgid "Home"
+msgstr ""
+
+#: 404.php:28
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:30
+msgid "Error Page"
+msgstr ""
+
+#: 404.php:44
+msgid "404"
+msgstr ""
+
+#: 404.php:45
+msgid "SORRY PAGE WAS NOT FOUND!"
+msgstr ""
+
+#: 404.php:50 searchform.php:4
+msgid "Search Here..."
+msgstr ""
+
+#: 404.php:51 searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: archive.php:28 archive.php:53
+msgid "Archives"
+msgstr ""
+
+#: archive.php:32
+msgid " DAILY ARCHIVES: "
+msgstr ""
+
+#: archive.php:35
+msgid " MONTHLY ARCHIVES: "
+msgstr ""
+
+#: archive.php:39
+msgid " YEARLY ARCHIVES: "
+msgstr ""
+
+#: author.php:28
+msgid "Author Archives"
+msgstr ""
+
+#: author.php:30
+msgid " All Posts By "
+msgstr ""
+
+#: category.php:28
+msgid "Category Archives"
+msgstr ""
+
+#: category.php:30
+msgid " Category Archives:"
+msgstr ""
+
+#: comments.php:14
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:56
+msgid "Name"
+msgstr ""
+
+#: comments.php:61 inc/redux/config.php:1859
+msgid "Email"
+msgstr ""
+
+#: comments.php:66
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:69
+msgid "Send Message"
+msgstr ""
+
+#: footer.php:24
+msgid "&copy; 2023 All rights reserved by "
+msgstr ""
+
+#: footer.php:24
+msgid "WordPressRiver"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+
+#: functions.php:36
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+
+#: functions.php:42
+msgctxt "sansserif font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:48
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:50
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:220 functions.php:243
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:223 inc/redux/config.php:385
+msgid "Header Home Menu"
+msgstr ""
+
+#: functions.php:224 inc/redux/config.php:438 inc/redux/config.php:1242
+msgid "Header Get Started Menu"
+msgstr ""
+
+#: functions.php:225 inc/redux/config.php:456 inc/redux/config.php:1260
+msgid "Header Company Menu"
+msgstr ""
+
+#: functions.php:226 inc/redux/config.php:474 inc/redux/config.php:1278
+msgid "Header Product Menu"
+msgstr ""
+
+#: functions.php:227 inc/redux/config.php:492 inc/redux/config.php:1296
+msgid "Header Legal Menu"
+msgstr ""
+
+#: functions.php:228 inc/redux/config.php:1086
+msgid "Header Services Menu"
+msgstr ""
+
+#: functions.php:229 inc/redux/config.php:1104
+msgid "Header Our Fields Menu"
+msgstr ""
+
+#: functions.php:232
+msgid "Footer Services Menu"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Company Menu"
+msgstr ""
+
+#: functions.php:234
+msgid "Footer Product Menu"
+msgstr ""
+
+#: functions.php:235
+msgid "Footer Our Fields Menu"
+msgstr ""
+
+#: functions.php:236
+msgid "Footer Legal Menu"
+msgstr ""
+
+#: functions.php:260
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:262
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:340
+msgid "Import process may take 2-5 minutes. If you are facing any issues, please contact our support."
+msgstr ""
+
+#: inc/redux/config.php:22
+msgid "Synck Options"
+msgstr ""
+
+#: inc/redux/config.php:50
+msgid "Set Header Bar"
+msgstr ""
+
+#: inc/redux/config.php:51
+msgid "main-headerbar"
+msgstr ""
+
+#: inc/redux/config.php:60
+msgid "ON"
+msgstr ""
+
+#: inc/redux/config.php:61
+msgid "OFF"
+msgstr ""
+
+#: inc/redux/config.php:63
+msgid "Header Bar Options"
+msgstr ""
+
+#: inc/redux/config.php:64
+msgid "Toggle the header bar ON/OFF by selecting the corresponding option."
+msgstr ""
+
+#: inc/redux/config.php:68
+msgid "Header Bar"
+msgstr ""
+
+#: inc/redux/config.php:75
+msgid "Header bar text"
+msgstr ""
+
+#: inc/redux/config.php:78
+msgid "Level up your business with"
+msgstr ""
+
+#: inc/redux/config.php:83
+msgid "Data word text"
+msgstr ""
+
+#: inc/redux/config.php:86 inc/redux/config.php:94
+msgid "SYNCK."
+msgstr ""
+
+#: inc/redux/config.php:91
+msgid "Data word hover text"
+msgstr ""
+
+#: inc/redux/config.php:99
+msgid "Data word text link"
+msgstr ""
+
+#: inc/redux/config.php:102
+msgid "https://wpriverthemes.com/synck/about-us/"
+msgstr ""
+
+#: inc/redux/config.php:112
+msgid "Header Info"
+msgstr ""
+
+#: inc/redux/config.php:113
+msgid "header_info"
+msgstr ""
+
+#: inc/redux/config.php:119
+msgid "Favicon logo"
+msgstr ""
+
+#: inc/redux/config.php:129
+msgid "Header logo"
+msgstr ""
+
+#: inc/redux/config.php:139
+msgid "Header logo link"
+msgstr ""
+
+#: inc/redux/config.php:142 inc/redux/config.php:370
+msgid "https://wpriverthemes.com/synck/"
+msgstr ""
+
+#: inc/redux/config.php:147
+msgid "Header Contact Info 1"
+msgstr ""
+
+#: inc/redux/config.php:154
+msgid "Number link text"
+msgstr ""
+
+#: inc/redux/config.php:157
+msgid "Call Us"
+msgstr ""
+
+#: inc/redux/config.php:162
+msgid "Number link"
+msgstr ""
+
+#: inc/redux/config.php:165
+msgid "tel:+1-938-740-7555"
+msgstr ""
+
+#: inc/redux/config.php:170
+msgid "Arrow icon class name"
+msgstr ""
+
+#: inc/redux/config.php:173 inc/redux/config.php:871
+msgid "iconoir-arrow-up-right"
+msgstr ""
+
+#: inc/redux/config.php:175 inc/redux/config.php:224 inc/redux/config.php:250
+#: inc/redux/config.php:276 inc/redux/config.php:302 inc/redux/config.php:869
+#: inc/redux/config.php:1924 inc/redux/config.php:1950
+#: inc/redux/config.php:1976 inc/redux/config.php:2002
+msgid "Paste Iconoir-Icon Class. For more icons, visit %s."
+msgstr ""
+
+#: inc/redux/config.php:181
+msgid "Phone number"
+msgstr ""
+
+#: inc/redux/config.php:184 inc/redux/config.php:1836
+msgid "+1-938-740-7555"
+msgstr ""
+
+#: inc/redux/config.php:189
+msgid "Header Contact Info 2"
+msgstr ""
+
+#: inc/redux/config.php:196
+msgid "Button text"
+msgstr ""
+
+#: inc/redux/config.php:199
+msgid "Contact Us"
+msgstr ""
+
+#: inc/redux/config.php:204 inc/redux/config.php:548 inc/redux/config.php:834
+#: inc/redux/config.php:857 inc/redux/config.php:1160 inc/redux/config.php:1352
+msgid "Button link"
+msgstr ""
+
+#: inc/redux/config.php:207 inc/redux/config.php:1593
+msgid "https://wpriverthemes.com/synck/contact/"
+msgstr ""
+
+#: inc/redux/config.php:212
+msgid "Mega Menu Social Icons Section 1"
+msgstr ""
+
+#: inc/redux/config.php:219 inc/redux/config.php:245 inc/redux/config.php:271
+#: inc/redux/config.php:297
+msgid "Social icon class name"
+msgstr ""
+
+#: inc/redux/config.php:222 inc/redux/config.php:1926
+msgid "iconoir-dribbble"
+msgstr ""
+
+#: inc/redux/config.php:230 inc/redux/config.php:256 inc/redux/config.php:282
+#: inc/redux/config.php:308
+msgid "Social icon title link"
+msgstr ""
+
+#: inc/redux/config.php:233 inc/redux/config.php:259 inc/redux/config.php:285
+#: inc/redux/config.php:311 inc/redux/config.php:342 inc/redux/config.php:1449
+#: inc/redux/config.php:1934 inc/redux/config.php:1960
+#: inc/redux/config.php:1986 inc/redux/config.php:2012
+msgid "#"
+msgstr ""
+
+#: inc/redux/config.php:238
+msgid "Mega Menu Social Icons Section 2"
+msgstr ""
+
+#: inc/redux/config.php:248 inc/redux/config.php:1952
+msgid "iconoir-twitter"
+msgstr ""
+
+#: inc/redux/config.php:264
+msgid "Mega Menu Social Icons Section 3"
+msgstr ""
+
+#: inc/redux/config.php:274 inc/redux/config.php:1978
+msgid "iconoir-instagram"
+msgstr ""
+
+#: inc/redux/config.php:290
+msgid "Mega Menu Social Icons Section 4"
+msgstr ""
+
+#: inc/redux/config.php:300 inc/redux/config.php:2004
+msgid "iconoir-linkedin"
+msgstr ""
+
+#: inc/redux/config.php:316
+msgid "Mega Menu Footer Content"
+msgstr ""
+
+#: inc/redux/config.php:323
+msgid "Description"
+msgstr ""
+
+#: inc/redux/config.php:326
+msgid "Looking for new career?"
+msgstr ""
+
+#: inc/redux/config.php:331 inc/redux/config.php:516 inc/redux/config.php:802
+#: inc/redux/config.php:921 inc/redux/config.php:962 inc/redux/config.php:1003
+#: inc/redux/config.php:1044 inc/redux/config.php:1128
+#: inc/redux/config.php:1320 inc/redux/config.php:1809
+#: inc/redux/config.php:1856
+msgid "Title"
+msgstr ""
+
+#: inc/redux/config.php:334
+msgid "We re hiring"
+msgstr ""
+
+#: inc/redux/config.php:339
+msgid "Title link"
+msgstr ""
+
+#: inc/redux/config.php:352
+msgid "Home Menu"
+msgstr ""
+
+#: inc/redux/config.php:353
+msgid "menu_header"
+msgstr ""
+
+#: inc/redux/config.php:359 inc/redux/config.php:404 inc/redux/config.php:569
+#: inc/redux/config.php:888 inc/redux/config.php:1180 inc/redux/config.php:1208
+#: inc/redux/config.php:1372 inc/redux/config.php:1400
+msgid "Menu title"
+msgstr ""
+
+#: inc/redux/config.php:367 inc/redux/config.php:412 inc/redux/config.php:577
+#: inc/redux/config.php:896 inc/redux/config.php:1188 inc/redux/config.php:1216
+#: inc/redux/config.php:1408
+msgid "Menu title link"
+msgstr ""
+
+#: inc/redux/config.php:375 inc/redux/config.php:420 inc/redux/config.php:1068
+#: inc/redux/config.php:1224
+msgid "Header Drop-Down Menu Items"
+msgstr ""
+
+#: inc/redux/config.php:382 inc/redux/config.php:435 inc/redux/config.php:453
+#: inc/redux/config.php:471 inc/redux/config.php:489 inc/redux/config.php:1083
+#: inc/redux/config.php:1101 inc/redux/config.php:1239
+#: inc/redux/config.php:1257 inc/redux/config.php:1275
+#: inc/redux/config.php:1293 inc/redux/config.php:1709
+#: inc/redux/config.php:1727 inc/redux/config.php:1745
+#: inc/redux/config.php:1763 inc/redux/config.php:1781
+msgid "Menu location"
+msgstr ""
+
+#: inc/redux/config.php:388 inc/redux/config.php:441 inc/redux/config.php:459
+#: inc/redux/config.php:477 inc/redux/config.php:495 inc/redux/config.php:1089
+#: inc/redux/config.php:1107 inc/redux/config.php:1245
+#: inc/redux/config.php:1263 inc/redux/config.php:1281
+#: inc/redux/config.php:1299 inc/redux/config.php:1715
+#: inc/redux/config.php:1733 inc/redux/config.php:1751
+#: inc/redux/config.php:1769 inc/redux/config.php:1787
+msgid "Go to Appearance -> Menus"
+msgstr ""
+
+#: inc/redux/config.php:397
+msgid "Company Menu"
+msgstr ""
+
+#: inc/redux/config.php:398
+msgid "menu_header1"
+msgstr ""
+
+#: inc/redux/config.php:407 inc/redux/config.php:448 inc/redux/config.php:1252
+#: inc/redux/config.php:1722
+msgid "Company"
+msgstr ""
+
+#: inc/redux/config.php:415
+msgid "https://wpriverthemes.com/synck/company"
+msgstr ""
+
+#: inc/redux/config.php:427 inc/redux/config.php:445 inc/redux/config.php:463
+#: inc/redux/config.php:481 inc/redux/config.php:937 inc/redux/config.php:978
+#: inc/redux/config.php:1019 inc/redux/config.php:1060
+#: inc/redux/config.php:1075 inc/redux/config.php:1093
+#: inc/redux/config.php:1231 inc/redux/config.php:1249
+#: inc/redux/config.php:1267 inc/redux/config.php:1285
+#: inc/redux/config.php:1701 inc/redux/config.php:1719
+#: inc/redux/config.php:1737 inc/redux/config.php:1755
+#: inc/redux/config.php:1773
+msgid "Heading"
+msgstr ""
+
+#: inc/redux/config.php:430 inc/redux/config.php:1234
+msgid "Get Started"
+msgstr ""
+
+#: inc/redux/config.php:466 inc/redux/config.php:965 inc/redux/config.php:1270
+#: inc/redux/config.php:1740
+msgid "Product"
+msgstr ""
+
+#: inc/redux/config.php:484 inc/redux/config.php:1288 inc/redux/config.php:1776
+msgid "Legal"
+msgstr ""
+
+#: inc/redux/config.php:499 inc/redux/config.php:785 inc/redux/config.php:1111
+#: inc/redux/config.php:1303
+msgid "Header Right Section"
+msgstr ""
+
+#: inc/redux/config.php:506 inc/redux/config.php:792 inc/redux/config.php:1118
+#: inc/redux/config.php:1310
+msgid "Right image"
+msgstr ""
+
+#: inc/redux/config.php:519 inc/redux/config.php:1323
+msgid "Solution in your hand"
+msgstr ""
+
+#: inc/redux/config.php:524 inc/redux/config.php:810 inc/redux/config.php:1136
+#: inc/redux/config.php:1328
+msgid "Content 1"
+msgstr ""
+
+#: inc/redux/config.php:527 inc/redux/config.php:1331
+msgid "Develop IT solutions based on the"
+msgstr ""
+
+#: inc/redux/config.php:532 inc/redux/config.php:818 inc/redux/config.php:1144
+#: inc/redux/config.php:1336
+msgid "Content 2"
+msgstr ""
+
+#: inc/redux/config.php:535 inc/redux/config.php:1339
+msgid "analysis phase."
+msgstr ""
+
+#: inc/redux/config.php:540 inc/redux/config.php:826 inc/redux/config.php:849
+#: inc/redux/config.php:1152 inc/redux/config.php:1344
+msgid "Button title"
+msgstr ""
+
+#: inc/redux/config.php:543 inc/redux/config.php:829 inc/redux/config.php:1155
+#: inc/redux/config.php:1347
+msgid "View more"
+msgstr ""
+
+#: inc/redux/config.php:551 inc/redux/config.php:837 inc/redux/config.php:1163
+#: inc/redux/config.php:1355
+msgid "https://wpriverthemes.com/synck/case-studie-single"
+msgstr ""
+
+#: inc/redux/config.php:562
+msgid "Portfolio Menu"
+msgstr ""
+
+#: inc/redux/config.php:563
+msgid "menu_header2"
+msgstr ""
+
+#: inc/redux/config.php:572
+msgid "Portfolio"
+msgstr ""
+
+#: inc/redux/config.php:580 inc/redux/config.php:860
+msgid "https://wpriverthemes.com/synck/portfolio"
+msgstr ""
+
+#: inc/redux/config.php:585
+msgid "Image Section 1"
+msgstr ""
+
+#: inc/redux/config.php:592 inc/redux/config.php:642 inc/redux/config.php:692
+#: inc/redux/config.php:742
+msgid "Portfolio menu image"
+msgstr ""
+
+#: inc/redux/config.php:602 inc/redux/config.php:652 inc/redux/config.php:702
+#: inc/redux/config.php:752
+msgid "Portfolio menu title"
+msgstr ""
+
+#: inc/redux/config.php:605
+msgid "E-commerce"
+msgstr ""
+
+#: inc/redux/config.php:611 inc/redux/config.php:661 inc/redux/config.php:711
+#: inc/redux/config.php:761
+msgid "Portfolio menu title link"
+msgstr ""
+
+#: inc/redux/config.php:614 inc/redux/config.php:664 inc/redux/config.php:714
+#: inc/redux/config.php:764
+msgid "https://wpriverthemes.com/synck/portfolio-detail"
+msgstr ""
+
+#: inc/redux/config.php:619 inc/redux/config.php:669 inc/redux/config.php:719
+#: inc/redux/config.php:769
+msgid "Portfolio menu description 1"
+msgstr ""
+
+#: inc/redux/config.php:622
+msgid "we undertook a project to"
+msgstr ""
+
+#: inc/redux/config.php:627
+msgid "Portfolio menu Description 2"
+msgstr ""
+
+#: inc/redux/config.php:630
+msgid "migrate their existing."
+msgstr ""
+
+#: inc/redux/config.php:635
+msgid "Image Section 2"
+msgstr ""
+
+#: inc/redux/config.php:655
+msgid "App Development"
+msgstr ""
+
+#: inc/redux/config.php:672
+msgid "The mobile application has"
+msgstr ""
+
+#: inc/redux/config.php:677 inc/redux/config.php:727 inc/redux/config.php:777
+msgid "Portfolio menu description 2"
+msgstr ""
+
+#: inc/redux/config.php:680
+msgid "significantly improved."
+msgstr ""
+
+#: inc/redux/config.php:685
+msgid "Image Section 3"
+msgstr ""
+
+#: inc/redux/config.php:705
+msgid "SAAS Integration"
+msgstr ""
+
+#: inc/redux/config.php:722
+msgid "We partnered with DEF to"
+msgstr ""
+
+#: inc/redux/config.php:730
+msgid "upgrade their outdated IT."
+msgstr ""
+
+#: inc/redux/config.php:735
+msgid "Image Section 4"
+msgstr ""
+
+#: inc/redux/config.php:755
+msgid "Virtual Reality"
+msgstr ""
+
+#: inc/redux/config.php:772
+msgid "Enter into the virtual reality"
+msgstr ""
+
+#: inc/redux/config.php:780
+msgid "world for real experience."
+msgstr ""
+
+#: inc/redux/config.php:805
+msgid "Mobile app for a new era"
+msgstr ""
+
+#: inc/redux/config.php:813
+msgid "Download slack in your mobile for"
+msgstr ""
+
+#: inc/redux/config.php:821
+msgid "your daily usage."
+msgstr ""
+
+#: inc/redux/config.php:842
+msgid "Button Info Section"
+msgstr ""
+
+#: inc/redux/config.php:852
+msgid "View portfolio"
+msgstr ""
+
+#: inc/redux/config.php:865
+msgid "Arrow button icon class"
+msgstr ""
+
+#: inc/redux/config.php:881
+msgid "Services Menu"
+msgstr ""
+
+#: inc/redux/config.php:882
+msgid "menu_header3"
+msgstr ""
+
+#: inc/redux/config.php:891 inc/redux/config.php:1078 inc/redux/config.php:1704
+msgid "Services"
+msgstr ""
+
+#: inc/redux/config.php:899
+msgid "https://wpriverthemes.com/synck/services"
+msgstr ""
+
+#: inc/redux/config.php:904
+msgid "Card Section 1"
+msgstr ""
+
+#: inc/redux/config.php:911
+msgid "Card Image"
+msgstr ""
+
+#: inc/redux/config.php:924
+msgid "Brainstroming"
+msgstr ""
+
+#: inc/redux/config.php:929 inc/redux/config.php:970 inc/redux/config.php:1011
+#: inc/redux/config.php:1052
+msgid "Card title link"
+msgstr ""
+
+#: inc/redux/config.php:932 inc/redux/config.php:973 inc/redux/config.php:1014
+#: inc/redux/config.php:1055
+msgid "https://wpriverthemes.com/synck/how-we-do-single"
+msgstr ""
+
+#: inc/redux/config.php:940
+msgid "Ideas"
+msgstr ""
+
+#: inc/redux/config.php:945
+msgid "Card Section 2"
+msgstr ""
+
+#: inc/redux/config.php:952 inc/redux/config.php:993 inc/redux/config.php:1034
+msgid "Card image"
+msgstr ""
+
+#: inc/redux/config.php:981
+msgid "Design"
+msgstr ""
+
+#: inc/redux/config.php:986
+msgid "Card Section 3"
+msgstr ""
+
+#: inc/redux/config.php:1006
+msgid "SEO"
+msgstr ""
+
+#: inc/redux/config.php:1022
+msgid "Optimization"
+msgstr ""
+
+#: inc/redux/config.php:1027
+msgid "Card Section 4"
+msgstr ""
+
+#: inc/redux/config.php:1047
+msgid "Front-End"
+msgstr ""
+
+#: inc/redux/config.php:1063
+msgid "Development"
+msgstr ""
+
+#: inc/redux/config.php:1096 inc/redux/config.php:1758
+msgid "Our Fields"
+msgstr ""
+
+#: inc/redux/config.php:1131
+msgid "Our product hits"
+msgstr ""
+
+#: inc/redux/config.php:1139
+msgid "Our new best IT product of the"
+msgstr ""
+
+#: inc/redux/config.php:1147
+msgid "year 2024."
+msgstr ""
+
+#: inc/redux/config.php:1173
+msgid "FAQ Menu"
+msgstr ""
+
+#: inc/redux/config.php:1174
+msgid "menu_header4"
+msgstr ""
+
+#: inc/redux/config.php:1183
+msgid "FAQ"
+msgstr ""
+
+#: inc/redux/config.php:1191
+msgid "https://wpriverthemes.com/synck/faq"
+msgstr ""
+
+#: inc/redux/config.php:1201
+msgid "About Menu"
+msgstr ""
+
+#: inc/redux/config.php:1202
+msgid "menu_header5"
+msgstr ""
+
+#: inc/redux/config.php:1211
+msgid "About"
+msgstr ""
+
+#: inc/redux/config.php:1219
+msgid "https://wpriverthemes.com/synck/about-us"
+msgstr ""
+
+#: inc/redux/config.php:1365
+msgid "Blog Menu"
+msgstr ""
+
+#: inc/redux/config.php:1366
+msgid "menu_header6"
+msgstr ""
+
+#: inc/redux/config.php:1375 index.php:28 page-templates/blog-sidebar.php:17
+msgid "Blog"
+msgstr ""
+
+#: inc/redux/config.php:1380
+msgid "Menu title link 6"
+msgstr ""
+
+#: inc/redux/config.php:1383
+msgid "https://wpriverthemes.com/synck/blog"
+msgstr ""
+
+#: inc/redux/config.php:1393
+msgid "Pricing Menu"
+msgstr ""
+
+#: inc/redux/config.php:1394
+msgid "menu_header7"
+msgstr ""
+
+#: inc/redux/config.php:1403
+msgid "Pricing"
+msgstr ""
+
+#: inc/redux/config.php:1411
+msgid "https://wpriverthemes.com/synck/our-pricing"
+msgstr ""
+
+#: inc/redux/config.php:1423
+msgid "Footer Left Content"
+msgstr ""
+
+#: inc/redux/config.php:1424
+msgid "footerleft"
+msgstr ""
+
+#: inc/redux/config.php:1429
+msgid "Footer Logo Section"
+msgstr ""
+
+#: inc/redux/config.php:1436
+msgid "Footer logo"
+msgstr ""
+
+#: inc/redux/config.php:1446
+msgid "Footer logo link"
+msgstr ""
+
+#: inc/redux/config.php:1454
+msgid "Footer logo description 1"
+msgstr ""
+
+#: inc/redux/config.php:1457
+msgid "We provide the expertise and support to "
+msgstr ""
+
+#: inc/redux/config.php:1462
+msgid "Footer logo description 2"
+msgstr ""
+
+#: inc/redux/config.php:1465
+msgid "propel your business forward."
+msgstr ""
+
+#: inc/redux/config.php:1470
+msgid "Footer Subscribe Form Section"
+msgstr ""
+
+#: inc/redux/config.php:1477
+msgid "Subscribe form shortCode"
+msgstr ""
+
+#: inc/redux/config.php:1480
+msgid "Paste this default form short code \"[contact-form-7 id=\"3dd5d8e\" title=\"Synck-Footer-Subscribe-Form\"]\""
+msgstr ""
+
+#: inc/redux/config.php:1481
+msgid "Enter Subscribe From 7 ShortCode Here"
+msgstr ""
+
+#: inc/redux/config.php:1486
+msgid "Footer Client Image Section"
+msgstr ""
+
+#: inc/redux/config.php:1493
+msgid "Footer client image 1"
+msgstr ""
+
+#: inc/redux/config.php:1503
+msgid "Footer client image 2"
+msgstr ""
+
+#: inc/redux/config.php:1513
+msgid "Footer client image 3"
+msgstr ""
+
+#: inc/redux/config.php:1523
+msgid "Footer client image 4"
+msgstr ""
+
+#: inc/redux/config.php:1537
+msgid "Footer Right Content"
+msgstr ""
+
+#: inc/redux/config.php:1538
+msgid "footerright"
+msgstr ""
+
+#: inc/redux/config.php:1544
+msgid "Footer Content Section"
+msgstr ""
+
+#: inc/redux/config.php:1551
+msgid "Footer right heading"
+msgstr ""
+
+#: inc/redux/config.php:1554
+msgid "Let’s get started on something great"
+msgstr ""
+
+#: inc/redux/config.php:1559
+msgid "Footer right description 1"
+msgstr ""
+
+#: inc/redux/config.php:1562
+msgid "Our team of IT experts looks forward to meeting with you"
+msgstr ""
+
+#: inc/redux/config.php:1567
+msgid "Footer right description 2"
+msgstr ""
+
+#: inc/redux/config.php:1570
+msgid "and providing valuable insights tailored to your business."
+msgstr ""
+
+#: inc/redux/config.php:1575
+msgid "Footer Button Section"
+msgstr ""
+
+#: inc/redux/config.php:1582
+msgid "Footer button text"
+msgstr ""
+
+#: inc/redux/config.php:1585
+msgid "Get an appointment now"
+msgstr ""
+
+#: inc/redux/config.php:1590
+msgid "Footer button link"
+msgstr ""
+
+#: inc/redux/config.php:1598
+msgid "Footer Experience Section"
+msgstr ""
+
+#: inc/redux/config.php:1605 inc/redux/config.php:1802
+#: inc/redux/config.php:1913
+msgid "Section 1"
+msgstr ""
+
+#: inc/redux/config.php:1612 inc/redux/config.php:1643
+#: inc/redux/config.php:1666
+msgid "Footer experience heading"
+msgstr ""
+
+#: inc/redux/config.php:1615
+msgid "2 "
+msgstr ""
+
+#: inc/redux/config.php:1620 inc/redux/config.php:1674
+msgid "Footer experience span"
+msgstr ""
+
+#: inc/redux/config.php:1623
+msgid "Mins"
+msgstr ""
+
+#: inc/redux/config.php:1628 inc/redux/config.php:1651
+#: inc/redux/config.php:1682
+msgid "Footer experience title"
+msgstr ""
+
+#: inc/redux/config.php:1631
+msgid "Response Time"
+msgstr ""
+
+#: inc/redux/config.php:1636 inc/redux/config.php:1849
+#: inc/redux/config.php:1939
+msgid "Section 2"
+msgstr ""
+
+#: inc/redux/config.php:1646
+msgid "99%"
+msgstr ""
+
+#: inc/redux/config.php:1654
+msgid "Client Satisfaction"
+msgstr ""
+
+#: inc/redux/config.php:1659 inc/redux/config.php:1965
+msgid "Section 3"
+msgstr ""
+
+#: inc/redux/config.php:1669
+msgid "22+ "
+msgstr ""
+
+#: inc/redux/config.php:1677
+msgid "Years"
+msgstr ""
+
+#: inc/redux/config.php:1685
+msgid "Field Experience"
+msgstr ""
+
+#: inc/redux/config.php:1694
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/redux/config.php:1695
+msgid "menu_footer"
+msgstr ""
+
+#: inc/redux/config.php:1712
+msgid "Footer Link 1"
+msgstr ""
+
+#: inc/redux/config.php:1730
+msgid "Footer Link 2"
+msgstr ""
+
+#: inc/redux/config.php:1748
+msgid "Footer Link 3"
+msgstr ""
+
+#: inc/redux/config.php:1766
+msgid "Footer Link 4"
+msgstr ""
+
+#: inc/redux/config.php:1784
+msgid "Footer Link 5"
+msgstr ""
+
+#: inc/redux/config.php:1795
+msgid "Contact Info"
+msgstr ""
+
+#: inc/redux/config.php:1796
+msgid "contactinfofooter"
+msgstr ""
+
+#: inc/redux/config.php:1812
+msgid "Phone"
+msgstr ""
+
+#: inc/redux/config.php:1817
+msgid "Number 1"
+msgstr ""
+
+#: inc/redux/config.php:1820
+msgid "+1-455-1482-236"
+msgstr ""
+
+#: inc/redux/config.php:1825
+msgid "Number link 1"
+msgstr ""
+
+#: inc/redux/config.php:1828
+msgid "tel:+1-455-1482-236"
+msgstr ""
+
+#: inc/redux/config.php:1833
+msgid "Number 2"
+msgstr ""
+
+#: inc/redux/config.php:1841
+msgid "Number link 2"
+msgstr ""
+
+#: inc/redux/config.php:1844
+msgid "tel:+1-938-740-75556"
+msgstr ""
+
+#: inc/redux/config.php:1864
+msgid "Email 1"
+msgstr ""
+
+#: inc/redux/config.php:1867
+msgid "bluebase@mail.com"
+msgstr ""
+
+#: inc/redux/config.php:1872
+msgid "Email link 1"
+msgstr ""
+
+#: inc/redux/config.php:1875
+msgid "mailto:bluebase@mail.com"
+msgstr ""
+
+#: inc/redux/config.php:1880
+msgid "Email 2"
+msgstr ""
+
+#: inc/redux/config.php:1883
+msgid "mandrodio@mail.com"
+msgstr ""
+
+#: inc/redux/config.php:1888
+msgid "Email link 2"
+msgstr ""
+
+#: inc/redux/config.php:1891
+msgid "mailto:mandrodio@mail.com"
+msgstr ""
+
+#: inc/redux/config.php:1899
+msgid "Footer Info"
+msgstr ""
+
+#: inc/redux/config.php:1900
+msgid "footerinfo"
+msgstr ""
+
+#: inc/redux/config.php:1906
+msgid "Social Icons Section"
+msgstr ""
+
+#: inc/redux/config.php:1920 inc/redux/config.php:1946
+#: inc/redux/config.php:1972 inc/redux/config.php:1998
+msgid "Social icon class"
+msgstr ""
+
+#: inc/redux/config.php:1931 inc/redux/config.php:1957
+#: inc/redux/config.php:1983 inc/redux/config.php:2009
+msgid "Social icon class link"
+msgstr ""
+
+#: inc/redux/config.php:1991
+msgid "Section 4"
+msgstr ""
+
+#: inc/redux/config.php:2017
+msgid "Copyright Areas"
+msgstr ""
+
+#: inc/redux/config.php:2024
+msgid "Copyright content"
+msgstr ""
+
+#: inc/redux/config.php:2027
+msgid "&copy; 2024 All rights reserved by"
+msgstr ""
+
+#: inc/redux/config.php:2032
+msgid "Copyright text"
+msgstr ""
+
+#: inc/redux/config.php:2035
+msgid "WordpressRiver"
+msgstr ""
+
+#: inc/redux/config.php:2040
+msgid "Copyright text link"
+msgstr ""
+
+#: inc/redux/config.php:2043
+msgid "https://themeforest.net/user/wordpressriver/portfolio"
+msgstr ""
+
+#: inc/redux/config.php:2048
+msgid "Footer Background Image Section"
+msgstr ""
+
+#: inc/redux/config.php:2055
+msgid "Footer background image"
+msgstr ""
+
+#: inc/redux/config.php:2065
+msgid "Background image animation class"
+msgstr ""
+
+#: inc/redux/config.php:2068
+msgid "Use class \"animation-slide-right\" for image animation."
+msgstr ""
+
+#: inc/redux/config.php:2069
+msgid "animation-slide-right"
+msgstr ""
+
+#: inc/redux/config.php:2080
+msgid "Styling"
+msgstr ""
+
+#: inc/redux/config.php:2081
+msgid "synck_color"
+msgstr ""
+
+#: inc/redux/config.php:2087
+msgid "Main theme color"
+msgstr ""
+
+#: inc/redux/config.php:2088
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/redux/config.php:2091
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/redux/config.php:2098
+msgid "Custom Color Option"
+msgstr ""
+
+#: inc/redux/config.php:2106
+msgid "Choose main theme color"
+msgstr ""
+
+#: index.php:30 page-templates/blog-sidebar.php:19
+msgid "Blog with rightsidebar"
+msgstr ""
+
+#: search.php:28
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: search.php:30
+msgid " Search Results For : "
+msgstr ""
+
+#: tag.php:28
+msgid "TAG ARCHIVES"
+msgstr ""
+
+#: tag.php:30
+msgid "Tag Archives : "
+msgstr ""
+
+#: template-parts/content.php:16
+msgid "Read More"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: tgm-plugin/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:393
+#: tgm-plugin/class-tgm-plugin-activation.php:912
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+#: tgm-plugin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:394
+#: tgm-plugin/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:395
+#: tgm-plugin/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1019
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:1206
+#: tgm-plugin/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2067
+msgid "TGMPA v%s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2427
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2473
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2477
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2481
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2485
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2688
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2693
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2699
+msgid "Activate %2$s"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3583
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3586
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3588
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3592
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3594
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3597
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: tgm-plugin/class-tgm-plugin-activation.php:3605
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:75
+msgid "One Click Demo Import"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:81
+msgid "Redux Framework"
+msgstr ""
+
+#: tgm-plugin/recommend_plugins.php:87
+msgid "Synck Core"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Synck"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpressriverthemes.com/synck/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Introducing a WordPress theme tailored for IT services and business consulting, making it the optimal design choice for businesses in 2024."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WordPressRiver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/wordpressriver"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Details-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-With-Sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Career-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Case-Studie-Single-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Case-Studies-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Company-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Event-Detail-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Event-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "FAQ-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Feature-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Page-v1"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home-Page-v2"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "How-We-Do-Detail-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "How-We-do-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "New-Release-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Our-Field-Details"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Overview-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Partner-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio-Detail-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Pricing-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Service-Detail-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Service-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Solution-Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Team-Page"
+msgstr ""

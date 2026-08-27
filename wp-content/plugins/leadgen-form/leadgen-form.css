@@ -1,0 +1,297 @@
+.leadgen-page {
+  width: min(72vw, 1280px);
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 56px 24px 90px;
+  background:
+    radial-gradient(circle at top left, rgba(110, 193, 228, 0.18), transparent 28%),
+    linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
+  font-family: 'DM Sans', sans-serif;
+}
+.leadgen-hero {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 40px;
+  align-items: center;
+}
+.leadgen-copy {
+  padding: 24px 0;
+}
+.leadgen-badge {
+  display: inline-flex;
+  margin-bottom: 18px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(110, 193, 228, 0.18);
+  color: #245b78;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.leadgen-copy h1 {
+  margin: 0 0 16px;
+  font-size: clamp(2.2rem, 4vw, 3.35rem);
+  line-height: 1.06;
+  letter-spacing: -0.02em;
+  color: #0f172a;
+}
+.leadgen-copy p {
+  margin: 0 0 18px;
+  max-width: 640px;
+  font-size: 1.06rem;
+  line-height: 1.75;
+  color: #54595F;
+}
+.leadgen-highlights {
+  margin: 0 0 24px;
+  padding: 0 0 0 20px;
+  color: #54595F;
+}
+.leadgen-highlights li {
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+.leadgen-trust-row {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  padding: 10px 14px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.76);
+  font-size: 0.95rem;
+  color: #54595F;
+}
+.leadgen-trust-row strong {
+  color: #0f172a;
+}
+.leadgen-help {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.8rem;
+  color: #94a3b8;
+}
+.leadgen-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.leadgen-card {
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 36px;
+  border-radius: 30px;
+  background: linear-gradient(145deg, rgba(15, 23, 42, 0.97) 0%, rgba(8, 15, 24, 0.98) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 28px 90px rgba(15, 23, 42, 0.24);
+}
+.leadgen-progress {
+  margin-bottom: 24px;
+}
+.leadgen-progress-bar {
+  height: 8px;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.16);
+  overflow: hidden;
+}
+.leadgen-progress-fill {
+  display: block;
+  height: 100%;
+  width: 0;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6EC1E4 0%, #5D6599 100%);
+  transition: width 0.3s ease;
+}
+.leadgen-form {
+  color: #3970a7;
+}
+.leadgen-step-header {
+  margin-bottom: 26px;
+}
+.leadgen-step {
+  animation: leadgenFadeIn 0.22s ease;
+}
+@keyframes leadgenFadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.leadgen-step-label {
+  display: inline-flex;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.04);
+  color: #94a3b8;
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.leadgen-step-progress {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  color: #94a3b8;
+}
+.leadgen-step-header h2 {
+  margin: 18px 0 10px;
+  font-size: 2rem;
+  line-height: 1.05;
+  color: #ffffff;
+}
+.leadgen-step-header p {
+  margin: 0;
+  color: #cbd5e1;
+  font-size: 0.98rem;
+}
+.leadgen-field {
+  margin-bottom: 18px;
+}
+.leadgen-field label {
+  display: block;
+  margin-bottom: 8px;
+  color: #cbd5e1;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.leadgen-field label span {
+  color: #f97316;
+}
+.leadgen-field input,
+.leadgen-field select {
+  width: 100%;
+  min-height: 52px;
+  padding: 0 16px;
+  border-radius: 16px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(15, 23, 42, 0.92);
+  color: #f8fafc;
+  font-size: 0.96rem;
+  outline: none;
+  transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
+}
+.leadgen-field input:focus,
+.leadgen-field select:focus {
+  border-color: #6EC1E4;
+  box-shadow: 0 0 0 4px rgba(110, 193, 228, 0.16);
+  transform: translateY(-1px);
+}
+.leadgen-field select {
+  appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, #94a3b8 50%), linear-gradient(135deg, #94a3b8 50%, transparent 50%);
+  background-position: calc(100% - 18px) calc(50% - 4px), calc(100% - 13px) calc(50% - 4px);
+  background-size: 6px 6px;
+  background-repeat: no-repeat;
+}
+.leadgen-actions {
+  margin-top: 12px;
+}
+.leadgen-actions.split {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr 1fr;
+}
+.leadgen-button {
+  width: 100%;
+  min-height: 54px;
+  border: none;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #6EC1E4 0%, #5D6599 100%);
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 14px 24px rgba(93, 101, 153, 0.2);
+  transition: transform .15s ease, opacity .15s ease, box-shadow .15s ease;
+}
+.leadgen-button:hover {
+  opacity: 0.96;
+  transform: translateY(-1px);
+  box-shadow: 0 16px 28px rgba(93, 101, 153, 0.26);
+}
+.leadgen-button:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
+.leadgen-note {
+  margin-top: 18px;
+  font-size: 0.82rem;
+  color: #94a3b8;
+  text-align: center;
+}
+.leadgen-error {
+  margin-top: 18px;
+  color: #fb7185;
+  font-size: 0.95rem;
+  min-height: 1.1em;
+}
+.leadgen-thankyou {
+  text-align: center;
+  padding: 40px 10px;
+}
+.leadgen-thanks-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 18px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: rgba(255,255,255,0.08);
+  color: #fff;
+  font-size: 2rem;
+}
+.leadgen-thankyou h2 {
+  margin-bottom: 10px;
+  font-size: 2rem;
+  color: #ffffff;
+}
+.leadgen-thankyou p {
+  color: #cbd5e1;
+  margin-bottom: 24px;
+}
+.leadgen-download-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 52px;
+  border-radius: 16px;
+  background: linear-gradient(90deg, #6EC1E4 0%, #5D6599 100%);
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+.hidden {
+  display: none;
+}
+@media (max-width: 900px) {
+  .leadgen-page {
+    width: min(92vw, 1280px);
+  }
+  .leadgen-hero {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+  .leadgen-copy {
+    padding: 0;
+  }
+}
+@media (max-width: 640px) {
+  .leadgen-page {
+    width: 100%;
+    padding: 28px 16px 60px;
+  }
+  .leadgen-card {
+    padding: 24px;
+  }
+  .leadgen-actions.split {
+    grid-template-columns: 1fr;
+  }
+  .leadgen-grid {
+    grid-template-columns: 1fr;
+  }
+  .leadgen-trust-row {
+    border-radius: 18px;
+  }
+}

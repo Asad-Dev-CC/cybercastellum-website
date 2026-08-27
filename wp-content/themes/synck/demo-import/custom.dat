@@ -1,0 +1,32 @@
+a:4:{s:8:"template";s:5:"synck";s:4:"mods";a:3:{i:0;b:0;s:18:"nav_menu_locations";a:13:{s:9:"main-menu";i:2;s:12:"footer-menu1";i:4;s:12:"footer-menu2";i:5;s:12:"footer-menu3";i:6;s:12:"footer-menu4";i:7;s:12:"footer-menu5";i:8;s:12:"header-menu1";i:9;s:12:"header-menu2";i:10;s:12:"header-menu3";i:11;s:12:"header-menu4";i:12;s:12:"header-menu5";i:13;s:12:"header-menu6";i:14;s:11:"header-menu";i:15;}s:18:"custom_css_post_id";i:318;}s:7:"options";a:2:{s:9:"site_icon";s:4:"5196";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:606:".contact-area .input-group p{
+	width:100%
+}
+.contact-area .input-row .input-group p{
+	padding-bottom: 0px;
+  margin-bottom: 0px;
+	border-bottom: none;
+}
+.contact-area .input-row .input-group input{
+	height: 36px;
+}
+.contact-form .input-row .input-group .theme-btn{
+	height: 40px;
+}
+.contact-form .input-row .input-group .wpcf7-list-item{
+	margin:0px;
+}
+.contact-area .input-row .input-group p label{
+	display:flex;
+	align-items: center;
+  gap: 12px;
+}
+.hero-contact-form .wpcf7-checkbox .wpcf7-list-item-label{
+	display:none;
+}
+.ehf-header #masthead {
+    position: sticky;
+    top: 0;
+		z-index: 1024;
+}
+
+";}
