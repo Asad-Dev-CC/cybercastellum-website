@@ -12,6 +12,9 @@ wp-content/upgrade-temp-backup-old/
 wp-content/ai1wm-backups/
 wp-content/wflogs/
 wp-content/*-old/
+wp-config.php
+.env
+.env.*
 *.sql
 *.sql.gz
 *.dump
