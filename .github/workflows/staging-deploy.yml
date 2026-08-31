@@ -44,7 +44,9 @@ jobs:
         run: |
           mkdir -p ~/.ssh
           chmod 700 ~/.ssh
-          printf '%s\n' "$SSH_KEY" > ~/.ssh/id_ed25519
+          cat > ~/.ssh/id_ed25519 <<'EOF'
+          $SSH_KEY
+          EOF
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan -H "$SSH_HOST" >> ~/.ssh/known_hosts
           chmod 644 ~/.ssh/known_hosts
@@ -79,7 +81,11 @@ jobs:
           SSH_USER: ${{ secrets.DH_STAGING_USER }}
           SSH_PATH: ${{ secrets.DH_STAGING_PATH }}
         run: |
-          ssh -i ~/.ssh/id_ed25519 -o BatchMode=yes -o StrictHostKeyChecking=yes "$SSH_USER@$SSH_HOST" \
+          ssh -i ~/.ssh/id_ed25519 \
+            -o BatchMode=yes \
+            -o IdentitiesOnly=yes \
+            -o PreferredAuthentications=publickey \
+            -o StrictHostKeyChecking=yes "$SSH_USER@$SSH_HOST" \
             "php -d detect_unicode=0 -l $SSH_PATH/index.php; \
              test -d $SSH_PATH/wp-content || exit 1; \
              test -d $SSH_PATH/wp-admin || exit 1"
