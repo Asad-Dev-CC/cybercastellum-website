@@ -84,7 +84,7 @@ jobs:
         run: |
           set -e
 
-          rsync -az \
+          rsync -az --delete \
             -e "ssh -i ~/.ssh/id_ed25519 -o BatchMode=yes -o IdentitiesOnly=yes -o PreferredAuthentications=publickey -o StrictHostKeyChecking=yes" \
             --exclude '.git' \
             --exclude '.github' \
